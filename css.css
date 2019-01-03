@@ -1,0 +1,43 @@
+h1{
+	color: black;
+}
+body{
+	background-image: url(12.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+p{
+	text-align: left;
+	text-indent: 50px;
+	color: black;
+	opacity: 1;
+}
+li{
+	text-align: left;
+}
+#sss{
+	background-color: #e2eaed;
+	opacity: 0.5;
+}
+#ssa{
+	background-color: #c3c8cd;
+	opacity: 0.5;
+	height: 50px;
+}
+a:hover{
+	color: blue;
+}
+#das{
+	height: 700px;
+}
+#jaj{
+	background-color: transparent;
+}
+#rea{
+	background-color: #e2eaed;
+	width: 100%;
+	opacity: 0.8;
+	height: 50px;
+}
+a{text-decoration:none;color:black;}
